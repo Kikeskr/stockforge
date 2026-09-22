@@ -1,0 +1,8 @@
+.venv/
+node_modules/
+.next/
+.env
+.env.local
+dist/
+target/
+.DS_Store
